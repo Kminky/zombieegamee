@@ -1,0 +1,9 @@
+school filter=lfs diff=lfs merge=lfs -text
+Zombie filter=lfs diff=lfs merge=lfs -text
+_MasksPack2 filter=lfs diff=lfs merge=lfs -text
+Weapons_ChamferZone filter=lfs diff=lfs merge=lfs -text
+Unity.VisualScripting.Generated filter=lfs diff=lfs merge=lfs -text
+Toon[[:space:]]Zombie[[:space:]]S filter=lfs diff=lfs merge=lfs -text
+Textures filter=lfs diff=lfs merge=lfs -text
+Vendor filter=lfs diff=lfs merge=lfs -text
+StarterAssets filter=lfs diff=lfs merge=lfs -text
